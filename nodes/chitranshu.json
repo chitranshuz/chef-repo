@@ -1,0 +1,2445 @@
+{
+  "name": "chitranshu",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "0",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "1": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "0",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "2": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "1",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "3": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "1",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "4": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "2",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "5": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "2",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "6": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "3",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "7": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz",
+        "stepping": "10",
+        "mhz": "1801.000",
+        "cache_size": "256 KB",
+        "physical_id": "0",
+        "core_id": "3",
+        "cores": "4",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "dts",
+          "acpi",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ss",
+          "ht",
+          "tm",
+          "pbe",
+          "syscall",
+          "nx",
+          "pdpe1gb",
+          "rdtscp",
+          "lm",
+          "pni",
+          "pclmulqdq",
+          "dtes64",
+          "est",
+          "tm2",
+          "ssse3",
+          "fma",
+          "cx16",
+          "xtpr",
+          "pdcm",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "osxsave",
+          "avx",
+          "f16c",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "fsgsbase",
+          "tsc_adjust",
+          "bmi1",
+          "avx2",
+          "smep",
+          "bmi2",
+          "erms",
+          "invpcid",
+          "mpx",
+          "rdseed",
+          "adx",
+          "smap",
+          "clflushopt",
+          "ibrs",
+          "ibpb",
+          "stibp",
+          "ssbd"
+        ]
+      },
+      "total": 8,
+      "real": 1
+    },
+    "filesystem": {
+      "rootfs": {
+        "kb_size": "248875384",
+        "kb_used": "154484388",
+        "kb_available": "94390996",
+        "percent_used": "63%",
+        "mount": "/",
+        "fs_type": "lxfs",
+        "mount_options": [
+          "rw",
+          "noatime"
+        ]
+      },
+      "none": {
+        "kb_size": "248875384",
+        "kb_used": "154484388",
+        "kb_available": "94390996",
+        "percent_used": "63%",
+        "mount": "/run/user",
+        "fs_type": "tmpfs",
+        "mount_options": [
+          "rw",
+          "nosuid",
+          "nodev",
+          "noexec",
+          "noatime",
+          "mode=755"
+        ]
+      },
+      "cgroup": {
+        "kb_size": "248875384",
+        "kb_used": "154484388",
+        "kb_available": "94390996",
+        "percent_used": "63%",
+        "mount": "/sys/fs/cgroup/devices",
+        "fs_type": "cgroup",
+        "mount_options": [
+          "rw",
+          "relatime",
+          "devices"
+        ]
+      },
+      "C:\\": {
+        "kb_size": "248875384",
+        "kb_used": "154484388",
+        "kb_available": "94390996",
+        "percent_used": "63%",
+        "mount": "/mnt/c",
+        "fs_type": "drvfs",
+        "mount_options": [
+          "rw",
+          "noatime",
+          "uid=1000",
+          "gid=1000",
+          "case=off"
+        ]
+      },
+      "D:\\": {
+        "kb_size": "506880",
+        "kb_used": "27560",
+        "kb_available": "479320",
+        "percent_used": "6%",
+        "mount": "/mnt/d",
+        "fs_type": "drvfs",
+        "mount_options": [
+          "rw",
+          "noatime",
+          "uid=1000",
+          "gid=1000",
+          "case=off"
+        ]
+      },
+      "E:\\": {
+        "kb_size": "538620",
+        "kb_used": "453828",
+        "kb_available": "84792",
+        "percent_used": "85%",
+        "mount": "/mnt/e",
+        "fs_type": "drvfs",
+        "mount_options": [
+          "rw",
+          "noatime",
+          "uid=1000",
+          "gid=1000",
+          "case=off"
+        ]
+      },
+      "sysfs": {
+        "mount": "/sys",
+        "fs_type": "sysfs",
+        "mount_options": [
+          "rw",
+          "nosuid",
+          "nodev",
+          "noexec",
+          "noatime"
+        ]
+      },
+      "proc": {
+        "mount": "/proc",
+        "fs_type": "proc",
+        "mount_options": [
+          "rw",
+          "nosuid",
+          "nodev",
+          "noexec",
+          "noatime"
+        ]
+      },
+      "devpts": {
+        "mount": "/dev/pts",
+        "fs_type": "devpts",
+        "mount_options": [
+          "rw",
+          "nosuid",
+          "noexec",
+          "noatime",
+          "gid=5",
+          "mode=620"
+        ]
+      },
+      "binfmt_misc": {
+        "mount": "/proc/sys/fs/binfmt_misc",
+        "fs_type": "binfmt_misc",
+        "mount_options": [
+          "rw",
+          "relatime"
+        ]
+      },
+      "C:\\134": {
+        "mount": "/mnt/c",
+        "fs_type": "drvfs",
+        "mount_options": [
+          "rw",
+          "noatime",
+          "uid=1000",
+          "gid=1000",
+          "case=off"
+        ]
+      },
+      "D:\\134": {
+        "mount": "/mnt/d",
+        "fs_type": "drvfs",
+        "mount_options": [
+          "rw",
+          "noatime",
+          "uid=1000",
+          "gid=1000",
+          "case=off"
+        ]
+      },
+      "E:\\134": {
+        "mount": "/mnt/e",
+        "fs_type": "drvfs",
+        "mount_options": [
+          "rw",
+          "noatime",
+          "uid=1000",
+          "gid=1000",
+          "case=off"
+        ]
+      }
+    },
+    "kernel": {
+      "name": "Linux",
+      "release": "4.4.0-18362-Microsoft",
+      "version": "#836-Microsoft Mon May 05 16:04:00 PST 2020",
+      "machine": "x86_64",
+      "os": "GNU/Linux",
+      "modules": {
+
+      }
+    },
+    "memory": {
+      "swap": {
+        "cached": "0kB",
+        "total": "31109420kB",
+        "free": "30989516kB"
+      },
+      "total": "16627892kB",
+      "free": "6350268kB",
+      "buffers": "34032kB",
+      "cached": "188576kB",
+      "active": "167556kB",
+      "inactive": "157876kB",
+      "dirty": "0kB",
+      "writeback": "0kB",
+      "anon_pages": "102824kB",
+      "mapped": "71404kB",
+      "slab": "13868kB",
+      "slab_reclaimable": "6744kB",
+      "slab_unreclaim": "7124kB",
+      "page_tables": "2524kB",
+      "nfs_unstable": "0kB",
+      "bounce": "0kB",
+      "commit_limit": "515524kB",
+      "committed_as": "3450064kB",
+      "vmalloc_total": "122880kB",
+      "vmalloc_used": "21296kB",
+      "vmalloc_chunk": "66044kB"
+    },
+    "network": {
+      "interfaces": {
+        "eth0": {
+          "type": "eth",
+          "number": "0",
+          "mtu": "1500",
+          "addresses": {
+            "57.5.206.253": {
+              "family": "inet",
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "57.5.206.255",
+              "scope": "Global"
+            },
+            "169.254.4.184": {
+              "family": "inet",
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "scope": "Global"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "via": "57.5.206.1",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        },
+        "eth1": {
+          "type": "eth",
+          "number": "1",
+          "mtu": "1500",
+          "addresses": {
+            "169.254.85.76": {
+              "family": "inet",
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "scope": "Global"
+            },
+            "fe80::8073:2835:e966:554c": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Link"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        },
+        "eth2": {
+          "type": "eth",
+          "number": "2",
+          "mtu": "1500",
+          "addresses": {
+            "169.254.80.175": {
+              "family": "inet",
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "scope": "Global"
+            },
+            "fe80::47a:4a85:a192:50af": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Link"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        },
+        "eth3": {
+          "type": "eth",
+          "number": "3",
+          "mtu": "1392",
+          "addresses": {
+            "169.254.100.187": {
+              "family": "inet",
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "scope": "Global"
+            },
+            "fe80::c082:4e7e:ef0a:64bb": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Link"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        },
+        "eth4": {
+          "type": "eth",
+          "number": "4",
+          "mtu": "1400",
+          "addresses": {
+            "169.254.94.166": {
+              "family": "inet",
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "scope": "Global"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        },
+        "eth5": {
+          "type": "eth",
+          "number": "5",
+          "mtu": "1500",
+          "flags": [
+            "BROADCAST",
+            "MULTICAST",
+            "UP"
+          ],
+          "addresses": {
+            "192.168.255.33": {
+              "family": "inet",
+              "prefixlen": "28",
+              "netmask": "255.255.255.240",
+              "broadcast": "192.168.255.47",
+              "scope": "Global"
+            },
+            "fe80::1d77:ed62:c5e2:5497": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Link"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ],
+          "route": {
+            "192.168.255.32": {
+              "destination": "192.168.255.32",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.240",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "eth5"
+            },
+            "192.168.255.33": {
+              "destination": "192.168.255.33",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "eth5"
+            },
+            "192.168.255.47": {
+              "destination": "192.168.255.47",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "eth5"
+            },
+            "224.0.0.0": {
+              "destination": "224.0.0.0",
+              "gateway": "0.0.0.0",
+              "mask": "240.0.0.0",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "eth5"
+            },
+            "255.255.255.255": {
+              "destination": "255.255.255.255",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "eth5"
+            }
+          }
+        },
+        "lo": {
+          "mtu": "1500",
+          "flags": [
+            "LOOPBACK",
+            "UP"
+          ],
+          "addresses": {
+            "127.0.0.1": {
+              "family": "inet",
+              "prefixlen": "8",
+              "netmask": "255.0.0.0",
+              "broadcast": "127.255.255.255",
+              "scope": "Global"
+            },
+            "::1": {
+              "family": "inet6",
+              "prefixlen": "128",
+              "scope": "Node"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ],
+          "route": {
+            "127.0.0.0": {
+              "destination": "127.0.0.0",
+              "gateway": "0.0.0.0",
+              "mask": "255.0.0.0",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "lo"
+            },
+            "127.0.0.1": {
+              "destination": "127.0.0.1",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "lo"
+            },
+            "127.255.255.255": {
+              "destination": "127.255.255.255",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "lo"
+            },
+            "224.0.0.0": {
+              "destination": "224.0.0.0",
+              "gateway": "0.0.0.0",
+              "mask": "240.0.0.0",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "lo"
+            },
+            "255.255.255.255": {
+              "destination": "255.255.255.255",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "lo"
+            }
+          }
+        },
+        "wifi0": {
+          "type": "wifi",
+          "number": "0",
+          "mtu": "1500",
+          "flags": [
+            "BROADCAST",
+            "MULTICAST",
+            "UP"
+          ],
+          "addresses": {
+            "192.168.5.111": {
+              "family": "inet",
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.5.255",
+              "scope": "Global"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "via": "192.168.5.1",
+              "metric": "0",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            }
+          ],
+          "route": {
+            "0.0.0.0": {
+              "destination": "0.0.0.0",
+              "gateway": "192.168.5.1",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 0,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "wifi0"
+            },
+            "192.168.5.0": {
+              "destination": "192.168.5.0",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.0",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "wifi0"
+            },
+            "192.168.5.111": {
+              "destination": "192.168.5.111",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "wifi0"
+            },
+            "192.168.5.255": {
+              "destination": "192.168.5.255",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "wifi0"
+            },
+            "224.0.0.0": {
+              "destination": "224.0.0.0",
+              "gateway": "0.0.0.0",
+              "mask": "240.0.0.0",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "wifi0"
+            },
+            "255.255.255.255": {
+              "destination": "255.255.255.255",
+              "gateway": "0.0.0.0",
+              "mask": "255.255.255.255",
+              "flags": "U",
+              "refcnt": 0,
+              "use": 0,
+              "metric": 256,
+              "mtu": 0,
+              "window": 0,
+              "irtt": 0,
+              "ifname": "wifi0"
+            }
+          }
+        },
+        "wifi1": {
+          "type": "wifi",
+          "number": "1",
+          "mtu": "1500",
+          "addresses": {
+            "169.254.213.96": {
+              "family": "inet",
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "scope": "Global"
+            },
+            "fe80::e958:e2b7:28c1:d560": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Link"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        },
+        "wifi2": {
+          "type": "wifi",
+          "number": "2",
+          "mtu": "1500",
+          "addresses": {
+            "169.254.225.52": {
+              "family": "inet",
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "scope": "Global"
+            },
+            "fe80::d4d2:9f6c:c07:e134": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Link"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        },
+        "eth6": {
+          "type": "eth",
+          "number": "6",
+          "mtu": "1472",
+          "addresses": {
+            "2001:0:2851:fcb0:1864:9938:987d:9378": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Global"
+            },
+            "fe80::1864:9938:987d:9378": {
+              "family": "inet6",
+              "prefixlen": "64",
+              "scope": "Link"
+            }
+          },
+          "routes": [
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            },
+            {
+              "destination": "none",
+              "family": "inet6",
+              "metric": "256",
+              "proto": "none"
+            }
+          ]
+        }
+      },
+      "listeners": {
+        "tcp": {
+
+        }
+      }
+    },
+    "counters": {
+      "network": {
+        "interfaces": {
+          "eth0": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "eth1": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "eth2": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "eth3": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "eth4": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "eth5": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "lo": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "wifi0": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "wifi1": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "wifi2": {
+            "tx": {
+              "queuelen": "1"
+            }
+          },
+          "eth6": {
+            "tx": {
+              "queuelen": "1"
+            }
+          }
+        }
+      }
+    },
+    "ipaddress": "192.168.255.33",
+    "macaddress": null,
+    "ip6address": "2001:0:2851:fcb0:1864:9938:987d:9378",
+    "lsb": {
+      "id": "Ubuntu",
+      "release": "16.04",
+      "codename": "xenial",
+      "description": "Ubuntu 16.04.6 LTS"
+    },
+    "os": "linux",
+    "os_version": "4.4.0-18362-Microsoft",
+    "platform": "ubuntu",
+    "platform_version": "16.04",
+    "platform_family": "debian",
+    "uptime_seconds": 2438,
+    "uptime": "40 minutes 38 seconds",
+    "idletime_seconds": 11439,
+    "idletime": "3 hours 10 minutes 39 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "perl": {
+        "version": "5.22.1",
+        "archname": "x86_64-linux-gnu-thread-multi"
+      },
+      "ruby": {
+        "platform": "x86_64-linux-gnu",
+        "version": "2.3.1",
+        "release_date": "2016-04-26",
+        "target": "x86_64-pc-linux-gnu",
+        "target_cpu": "x86_64",
+        "target_vendor": "pc",
+        "target_os": "linux-gnu",
+        "host": "x86_64-pc-linux-gnu",
+        "host_cpu": "x86_64",
+        "host_os": "linux-gnu",
+        "host_vendor": "pc",
+        "bin_dir": "/usr/bin",
+        "ruby_bin": "/usr/bin/ruby2.3",
+        "gems_dir": "/var/lib/gems/2.3.0",
+        "gem_bin": "/usr/bin/gem2.3"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.3.0",
+        "chef_root": "/usr/lib/ruby/vendor_ruby"
+      },
+      "ohai": {
+        "version": "8.4.0",
+        "ohai_root": "/usr/lib/ruby/vendor_ruby/ohai"
+      }
+    },
+    "cloud_v2": null,
+    "command": {
+      "ps": "ps -ef"
+    },
+    "dmi": {
+      "dmidecode_version": "3.0"
+    },
+    "hostname": "A2SITML30244",
+    "machinename": "A2SITML30244",
+    "fqdn": "A2SITML30244.mindtree.com",
+    "domain": "mindtree.com",
+    "init_package": "init",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "block_device": {
+
+    },
+    "ohai_time": 1595074667.38461,
+    "etc": {
+      "passwd": {
+        "root": {
+          "dir": "/root",
+          "gid": 0,
+          "uid": 0,
+          "shell": "/bin/bash",
+          "gecos": "root"
+        },
+        "daemon": {
+          "dir": "/usr/sbin",
+          "gid": 1,
+          "uid": 1,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "daemon"
+        },
+        "bin": {
+          "dir": "/bin",
+          "gid": 2,
+          "uid": 2,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "bin"
+        },
+        "sys": {
+          "dir": "/dev",
+          "gid": 3,
+          "uid": 3,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "sys"
+        },
+        "sync": {
+          "dir": "/bin",
+          "gid": 65534,
+          "uid": 4,
+          "shell": "/bin/sync",
+          "gecos": "sync"
+        },
+        "games": {
+          "dir": "/usr/games",
+          "gid": 60,
+          "uid": 5,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "games"
+        },
+        "man": {
+          "dir": "/var/cache/man",
+          "gid": 12,
+          "uid": 6,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "man"
+        },
+        "lp": {
+          "dir": "/var/spool/lpd",
+          "gid": 7,
+          "uid": 7,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "lp"
+        },
+        "mail": {
+          "dir": "/var/mail",
+          "gid": 8,
+          "uid": 8,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "mail"
+        },
+        "news": {
+          "dir": "/var/spool/news",
+          "gid": 9,
+          "uid": 9,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "news"
+        },
+        "uucp": {
+          "dir": "/var/spool/uucp",
+          "gid": 10,
+          "uid": 10,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "uucp"
+        },
+        "proxy": {
+          "dir": "/bin",
+          "gid": 13,
+          "uid": 13,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "proxy"
+        },
+        "www-data": {
+          "dir": "/var/www",
+          "gid": 33,
+          "uid": 33,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "www-data"
+        },
+        "backup": {
+          "dir": "/var/backups",
+          "gid": 34,
+          "uid": 34,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "backup"
+        },
+        "list": {
+          "dir": "/var/list",
+          "gid": 38,
+          "uid": 38,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "Mailing List Manager"
+        },
+        "irc": {
+          "dir": "/var/run/ircd",
+          "gid": 39,
+          "uid": 39,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "ircd"
+        },
+        "gnats": {
+          "dir": "/var/lib/gnats",
+          "gid": 41,
+          "uid": 41,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "Gnats Bug-Reporting System (admin)"
+        },
+        "nobody": {
+          "dir": "/nonexistent",
+          "gid": 65534,
+          "uid": 65534,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "nobody"
+        },
+        "systemd-timesync": {
+          "dir": "/run/systemd",
+          "gid": 102,
+          "uid": 100,
+          "shell": "/bin/false",
+          "gecos": "systemd Time Synchronization,,,"
+        },
+        "systemd-network": {
+          "dir": "/run/systemd/netif",
+          "gid": 103,
+          "uid": 101,
+          "shell": "/bin/false",
+          "gecos": "systemd Network Management,,,"
+        },
+        "systemd-resolve": {
+          "dir": "/run/systemd/resolve",
+          "gid": 104,
+          "uid": 102,
+          "shell": "/bin/false",
+          "gecos": "systemd Resolver,,,"
+        },
+        "systemd-bus-proxy": {
+          "dir": "/run/systemd",
+          "gid": 105,
+          "uid": 103,
+          "shell": "/bin/false",
+          "gecos": "systemd Bus Proxy,,,"
+        },
+        "syslog": {
+          "dir": "/home/syslog",
+          "gid": 108,
+          "uid": 104,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "_apt": {
+          "dir": "/nonexistent",
+          "gid": 65534,
+          "uid": 105,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "lxd": {
+          "dir": "/var/lib/lxd/",
+          "gid": 65534,
+          "uid": 106,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "messagebus": {
+          "dir": "/var/run/dbus",
+          "gid": 111,
+          "uid": 107,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "uuidd": {
+          "dir": "/run/uuidd",
+          "gid": 112,
+          "uid": 108,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "dnsmasq": {
+          "dir": "/var/lib/misc",
+          "gid": 65534,
+          "uid": 109,
+          "shell": "/bin/false",
+          "gecos": "dnsmasq,,,"
+        },
+        "sshd": {
+          "dir": "/var/run/sshd",
+          "gid": 65534,
+          "uid": 110,
+          "shell": "/usr/sbin/nologin",
+          "gecos": ""
+        },
+        "pollinate": {
+          "dir": "/var/cache/pollinate",
+          "gid": 1,
+          "uid": 111,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "chitranshu": {
+          "dir": "/home/chitranshu",
+          "gid": 1000,
+          "uid": 1000,
+          "shell": "/bin/bash",
+          "gecos": ",,,"
+        }
+      },
+      "group": {
+        "root": {
+          "gid": 0,
+          "members": [
+
+          ]
+        },
+        "daemon": {
+          "gid": 1,
+          "members": [
+
+          ]
+        },
+        "bin": {
+          "gid": 2,
+          "members": [
+
+          ]
+        },
+        "sys": {
+          "gid": 3,
+          "members": [
+
+          ]
+        },
+        "adm": {
+          "gid": 4,
+          "members": [
+            "syslog",
+            "chitranshu"
+          ]
+        },
+        "tty": {
+          "gid": 5,
+          "members": [
+
+          ]
+        },
+        "disk": {
+          "gid": 6,
+          "members": [
+
+          ]
+        },
+        "lp": {
+          "gid": 7,
+          "members": [
+
+          ]
+        },
+        "mail": {
+          "gid": 8,
+          "members": [
+
+          ]
+        },
+        "news": {
+          "gid": 9,
+          "members": [
+
+          ]
+        },
+        "uucp": {
+          "gid": 10,
+          "members": [
+
+          ]
+        },
+        "man": {
+          "gid": 12,
+          "members": [
+
+          ]
+        },
+        "proxy": {
+          "gid": 13,
+          "members": [
+
+          ]
+        },
+        "kmem": {
+          "gid": 15,
+          "members": [
+
+          ]
+        },
+        "dialout": {
+          "gid": 20,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "fax": {
+          "gid": 21,
+          "members": [
+
+          ]
+        },
+        "voice": {
+          "gid": 22,
+          "members": [
+
+          ]
+        },
+        "cdrom": {
+          "gid": 24,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "floppy": {
+          "gid": 25,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "tape": {
+          "gid": 26,
+          "members": [
+
+          ]
+        },
+        "sudo": {
+          "gid": 27,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "audio": {
+          "gid": 29,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "dip": {
+          "gid": 30,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "www-data": {
+          "gid": 33,
+          "members": [
+
+          ]
+        },
+        "backup": {
+          "gid": 34,
+          "members": [
+
+          ]
+        },
+        "operator": {
+          "gid": 37,
+          "members": [
+
+          ]
+        },
+        "list": {
+          "gid": 38,
+          "members": [
+
+          ]
+        },
+        "irc": {
+          "gid": 39,
+          "members": [
+
+          ]
+        },
+        "src": {
+          "gid": 40,
+          "members": [
+
+          ]
+        },
+        "gnats": {
+          "gid": 41,
+          "members": [
+
+          ]
+        },
+        "shadow": {
+          "gid": 42,
+          "members": [
+
+          ]
+        },
+        "utmp": {
+          "gid": 43,
+          "members": [
+
+          ]
+        },
+        "video": {
+          "gid": 44,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "sasl": {
+          "gid": 45,
+          "members": [
+
+          ]
+        },
+        "plugdev": {
+          "gid": 46,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "staff": {
+          "gid": 50,
+          "members": [
+
+          ]
+        },
+        "games": {
+          "gid": 60,
+          "members": [
+
+          ]
+        },
+        "users": {
+          "gid": 100,
+          "members": [
+
+          ]
+        },
+        "nogroup": {
+          "gid": 65534,
+          "members": [
+
+          ]
+        },
+        "systemd-journal": {
+          "gid": 101,
+          "members": [
+
+          ]
+        },
+        "systemd-timesync": {
+          "gid": 102,
+          "members": [
+
+          ]
+        },
+        "systemd-network": {
+          "gid": 103,
+          "members": [
+
+          ]
+        },
+        "systemd-resolve": {
+          "gid": 104,
+          "members": [
+
+          ]
+        },
+        "systemd-bus-proxy": {
+          "gid": 105,
+          "members": [
+
+          ]
+        },
+        "input": {
+          "gid": 106,
+          "members": [
+
+          ]
+        },
+        "crontab": {
+          "gid": 107,
+          "members": [
+
+          ]
+        },
+        "syslog": {
+          "gid": 108,
+          "members": [
+
+          ]
+        },
+        "netdev": {
+          "gid": 109,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "lxd": {
+          "gid": 110,
+          "members": [
+            "chitranshu"
+          ]
+        },
+        "messagebus": {
+          "gid": 111,
+          "members": [
+
+          ]
+        },
+        "uuidd": {
+          "gid": 112,
+          "members": [
+
+          ]
+        },
+        "ssh": {
+          "gid": 113,
+          "members": [
+
+          ]
+        },
+        "mlocate": {
+          "gid": 114,
+          "members": [
+
+          ]
+        },
+        "admin": {
+          "gid": 115,
+          "members": [
+
+          ]
+        },
+        "chitranshu": {
+          "gid": 1000,
+          "members": [
+
+          ]
+        }
+      }
+    },
+    "current_user": "root",
+    "root_group": "root",
+    "recipes": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
